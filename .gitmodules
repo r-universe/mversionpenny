@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "mixedClust"]
+	path = mixedClust
+	url = https://github.com/cran/mixedClust
+	shallow = true
+	registered = true
+[submodule "ordinalClust"]
+	path = ordinalClust
+	url = https://github.com/cran/ordinalClust
+	shallow = true
+	registered = true
